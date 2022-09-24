@@ -1,5 +1,10 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : Glody Syah Rabbynawa
+NIM : 21343077
+
+JS5
+1. program pertama menggunakan kelas scanner untuk mendapatkan inputan, scanner harus diimport terlebih dahyulu lalu mendeklarasukan penggunaan kelas scanner
+2. program kedua meggunakan scanner untuk mendapatkan input dalam bentuk tipe data float
+3. program ketiga menggunakan kelas bufferedreader untuk meminta inputan. bufferedreader harus diimport terlebih dahulu lalu mendeklarasikan penggunaan kelas bifferedreader
+4. program keempat menggunakan kelas bufferedreader untuk meminta inputan yang mengubah inputan berbentuk string ke bentuk float
+5. program kelima menggunakan kelas jOptionpane untuk meminta inputan yang kemudian menuliskan statement umum. joptionpane harus diimport 
+6. tugas 1 dan 2 adalah implementasi dari latihan diatas 
